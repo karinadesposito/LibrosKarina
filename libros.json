@@ -1,0 +1,22 @@
+[
+    {
+      "nombre":"Los Miserables",
+      "genero": "Drama",
+      "cantPaginas": 500,
+      "autor": "Victor Hugo" 
+      },
+    {
+        "nombre":"Cien años e soledad",
+        "genero": "Drama",
+        "cantPaginas": 500,
+        "autor": "G.Garcia Màrquez"
+     },
+     {
+        "nombre":"Rayuela",
+        "genero": "Drama",
+        "cantPaginas": 500,
+        "autor": "J. Cortazar"
+     }
+
+
+]
